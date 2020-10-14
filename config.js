@@ -1,5 +1,6 @@
 "use strict"; 
 /**
+ *parseInputs(['src/*.js'], {'ignore': [], 'parser': 'dox', 'layout': 'markdown'}).then(content => {});
  * @typedef json
  * @type{object}
  */
