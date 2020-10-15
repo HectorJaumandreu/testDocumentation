@@ -1,5 +1,5 @@
 # testDocumentation
-This is a test project to try dox dox documentation.
+This is a test to see how I can display project documentation.
+The code is tagged with JSDocs
+The documentation is created with documentation.js
 
-
-[![Latest Documentation](https://doxdox.org/images/badge-flat.svg)](https://doxdox.org/)
